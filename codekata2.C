@@ -4,8 +4,8 @@ int main()
 int number;
 scanf("%d", &number);
 if(number % 2 == 0)
-printf("%d is Even",number);
+printf("Even");
 else
-printf("%d is Odd",number);
+printf("Odd");
 return 0;
 }
