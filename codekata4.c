@@ -3,7 +3,7 @@ int main()
 {
 char c;
 scanf("%c",&c);
-if ((c>='d' && c<='?') || (c>='D' && c<='?'))
+if ((c>='a' && c<='z') || (c>='A' && c<='Z'))
 {
 printf("Alphabet");
 }
