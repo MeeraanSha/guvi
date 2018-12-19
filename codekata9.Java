@@ -17,3 +17,4 @@ class arraysum
 		}
 	System.out.println(sum);
 	}
+}
